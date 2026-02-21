@@ -2,7 +2,8 @@
 
 An Online Library Management System divided into two main modules:
 
-
+- **Admin**
+- **Student**
 
 ---
 
