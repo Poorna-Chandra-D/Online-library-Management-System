@@ -1,26 +1,50 @@
-# Online-library-Management-System
+# Online Library Management System (LMS)
 
-LMS Project Modules
-Online library Management System divided in two modules–
+An Online Library Management System divided into two main modules:
 
-Student
-Admin
-Admin Features
+- **Admin**
+- **Student**
 
-Admin Dashboard
-Admin can add/update/ delete category
-Admin can add/update/ delete author
-Admin can add/update/ delete books
-Admin can issue a new book to student and also update the details when student return book
-Admin can search student by using their student ID
-Admin can also view student details
-Admin can change own password
-Students-
+---
 
-Student can register yourself and after registration they will get studentid
-After login student can view own dashboard.
-Stduents can also view the listed books in the library.
- Student can update own profile.
-Student can view issued book and book return date-time.
-Student can also change own password.
-Student can also recover own password.
+## Modules & Features
+
+### Admin Module
+
+- **Admin Dashboard**
+- **Category Management**
+  - Add / Update / Delete categories
+- **Author Management**
+  - Add / Update / Delete authors
+- **Book Management**
+  - Add / Update / Delete books
+- **Book Issue & Return Management**
+  - Issue books to students
+  - Update issue/return details when a student returns a book
+- **Student Management**
+  - Search students using **Student ID**
+  - View student details
+- **Account Settings**
+  - Change admin password
+
+---
+
+### Student Module
+
+- **Student Registration**
+  - Students can register themselves
+  - After registration, they receive a **Student ID**
+- **Student Dashboard**
+  - View personal dashboard after login
+- **Library Books**
+  - View the list of available books in the library
+- **Profile Management**
+  - Update own profile information
+- **Issued Books**
+  - View issued books
+  - View book return **date & time**
+- **Account Settings**
+  - Change password
+  - Recover password (forgot password)
+
+---
