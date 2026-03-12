@@ -11,6 +11,21 @@ An Online Library Management System divided into two main modules:
 
 ### Admin Module
 
+- **Admin Dashboard**
+- **Category Management**
+  - Add / Update / Delete categories
+- **Author Management**
+  - Add / Update / Delete authors
+- **Book Management**
+  - Add / Update / Delete books
+- **Book Issue & Return Management**
+  - Issue books to students
+  - Update issue/return details when a student returns a book
+- **Student Management**
+  - Search students using **Student ID**
+  - View student details
+- **Account Settings**
+  - Change admin password
 
 
 ---
